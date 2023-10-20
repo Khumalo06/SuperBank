@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Superbank\bin\Debug\net7.0\Superbank.exe
+C:\Users\Dell\Desktop\Superbank\bin\Debug\net7.0\Superbank.deps.json
+C:\Users\Dell\Desktop\Superbank\bin\Debug\net7.0\Superbank.runtimeconfig.json
+C:\Users\Dell\Desktop\Superbank\bin\Debug\net7.0\Superbank.dll
+C:\Users\Dell\Desktop\Superbank\bin\Debug\net7.0\Superbank.pdb
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.dll
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\refint\Superbank.dll
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.pdb
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\Superbank.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Superbank\obj\Debug\net7.0\ref\Superbank.dll
